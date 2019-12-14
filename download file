@@ -1,0 +1,3 @@
+#url = r'https://s3.zylowski.net/public/input/2.txt
+#myfile=requests.get(url)
+#open(r'C:\Users\analyse_text.txt', 'wb').write(myfile.content)
